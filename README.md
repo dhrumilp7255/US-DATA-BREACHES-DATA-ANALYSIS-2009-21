@@ -25,3 +25,7 @@ Office for Civil Rights
 - Python programming language
 - Python libraries like numpy,matplotlib,pandas.
 - Microsoft Excel
+
+## Contributors
+- Dhrumil Patel [Github](https://github.com/dhrumilp7255)
+- Akshara Mehta [Guthub](https://github.com/akshara01)
